@@ -1,4 +1,4 @@
-package usama.task.movies.core.models;
+package usama.task.movies.cores.models;
 
 
 import org.json.JSONArray;
@@ -6,7 +6,7 @@ import org.json.JSONException;
 import org.json.JSONObject;
 import java.util.ArrayList;
 import com.google.gson.Gson;
-import usama.task.movies.core.helpers.Util;
+import usama.task.movies.cores.helpers.Util;
 
 
 /**

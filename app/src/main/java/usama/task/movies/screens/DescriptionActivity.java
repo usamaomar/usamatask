@@ -13,8 +13,8 @@ import android.widget.TextView;
 import com.bumptech.glide.Glide;
 
 import cat.us.movies.R;
-import usama.task.movies.core.configuration.RequestsUrls;
-import usama.task.movies.core.models.MovieModel;
+import usama.task.movies.cores.configurations.RequestsUrls;
+import usama.task.movies.cores.models.MovieModel;
 
 /**
  * Created by usamaomar on 4/7/19.

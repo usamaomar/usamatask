@@ -1,4 +1,4 @@
-package usama.task.movies.core.mangers;
+package usama.task.movies.cores.mangers;
 
 /**
  * Created by usamaomar on 4/7/19.

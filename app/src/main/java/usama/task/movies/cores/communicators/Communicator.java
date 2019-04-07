@@ -1,4 +1,4 @@
-package usama.task.movies.core.communicator;
+package usama.task.movies.cores.communicators;
 
 
 import android.text.TextUtils;
@@ -13,8 +13,8 @@ import org.json.JSONObject;
 import java.util.HashMap;
 import java.util.Map;
 
-import usama.task.movies.core.App;
-import usama.task.movies.core.configuration.Config;
+import usama.task.movies.cores.App;
+import usama.task.movies.cores.configurations.Config;
 
 /**
  * Created by usamaomar on 4/7/19.

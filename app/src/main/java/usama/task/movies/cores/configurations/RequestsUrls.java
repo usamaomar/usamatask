@@ -1,8 +1,8 @@
-package usama.task.movies.core.configuration;
+package usama.task.movies.cores.configurations;
 
 import java.util.Map;
 
-import usama.task.movies.core.helpers.Util;
+import usama.task.movies.cores.helpers.Util;
 
 /**
  * Created by usamaomar on 4/7/19.

@@ -1,4 +1,4 @@
-package usama.task.movies.core.operators;
+package usama.task.movies.cores.operators;
 
 import com.android.volley.Response;
 import com.android.volley.VolleyError;
@@ -7,9 +7,9 @@ import org.json.JSONObject;
 
 import java.util.HashMap;
 
-import usama.task.movies.core.communicator.Communicator;
-import usama.task.movies.core.configuration.RequestsUrls;
-import usama.task.movies.core.models.MainMovieModel;
+import usama.task.movies.cores.communicators.Communicator;
+import usama.task.movies.cores.configurations.RequestsUrls;
+import usama.task.movies.cores.models.MainMovieModel;
 
 /**
  * Created by usamaomar on 4/7/19.

@@ -1,4 +1,4 @@
-package usama.task.movies.core.models;
+package usama.task.movies.cores.models;
 
 
 import android.os.Parcel;

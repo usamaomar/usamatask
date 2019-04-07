@@ -1,4 +1,4 @@
-package usama.task.movies.core.communicator;
+package usama.task.movies.cores.communicators;
 
 import com.android.volley.AuthFailureError;
 import com.android.volley.DefaultRetryPolicy;

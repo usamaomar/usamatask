@@ -11,12 +11,12 @@ import android.widget.ProgressBar;
 
 import java.util.ArrayList;
 
-import usama.task.movies.core.models.ErrorModel;
-import usama.task.movies.core.models.MainMovieModel;
-import usama.task.movies.core.models.MovieModel;
-import usama.task.movies.core.operators.MovieOperator;
-import usama.task.movies.core.operators.Operator;
-import usama.task.movies.screens.adapter.MovieAdapter;
+import usama.task.movies.cores.models.ErrorModel;
+import usama.task.movies.cores.models.MainMovieModel;
+import usama.task.movies.cores.models.MovieModel;
+import usama.task.movies.cores.operators.MovieOperator;
+import usama.task.movies.cores.operators.Operator;
+import usama.task.movies.screens.adapters.MovieAdapter;
 import cat.us.movies.R;
 
 public class MainActivity extends BaseActivity {

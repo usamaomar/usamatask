@@ -1,4 +1,4 @@
-package usama.task.movies.core;
+package usama.task.movies.cores;
 
 import android.content.Context;
 import android.support.multidex.MultiDexApplication;

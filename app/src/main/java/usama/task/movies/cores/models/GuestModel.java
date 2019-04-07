@@ -1,4 +1,4 @@
-package usama.task.movies.core.models;
+package usama.task.movies.cores.models;
 
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
@@ -11,7 +11,7 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
-import usama.task.movies.core.helpers.Util;
+import usama.task.movies.cores.helpers.Util;
 
 /**
  * Created by usamaomar on 4/7/19.

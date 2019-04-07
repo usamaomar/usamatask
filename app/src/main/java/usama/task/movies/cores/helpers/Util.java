@@ -1,4 +1,4 @@
-package usama.task.movies.core.helpers;
+package usama.task.movies.cores.helpers;
 
 import com.google.gson.FieldNamingPolicy;
 import com.google.gson.Gson;

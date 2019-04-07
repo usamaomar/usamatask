@@ -1,4 +1,4 @@
-package usama.task.movies.screens.adapter;
+package usama.task.movies.screens.adapters;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -15,8 +15,8 @@ import com.bumptech.glide.Glide;
 import java.util.ArrayList;
 
 import cat.us.movies.R;
-import usama.task.movies.core.configuration.RequestsUrls;
-import usama.task.movies.core.models.MovieModel;
+import usama.task.movies.cores.configurations.RequestsUrls;
+import usama.task.movies.cores.models.MovieModel;
 
 /**
  * Created by usamaomar on 4/7/19.

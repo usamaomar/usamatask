@@ -1,4 +1,4 @@
-package usama.task.movies.core.configuration;
+package usama.task.movies.cores.configurations;
 
 /**
  * Created by usamaomar on 4/7/19.

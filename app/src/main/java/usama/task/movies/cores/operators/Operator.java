@@ -1,4 +1,4 @@
-package usama.task.movies.core.operators;
+package usama.task.movies.cores.operators;
 
 import com.android.volley.NetworkResponse;
 import com.android.volley.VolleyError;
@@ -9,7 +9,7 @@ import org.json.JSONObject;
 
 import java.io.UnsupportedEncodingException;
 
-import usama.task.movies.core.models.ErrorModel;
+import usama.task.movies.cores.models.ErrorModel;
 
 
 /**
